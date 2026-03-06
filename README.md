@@ -28,22 +28,9 @@ The [HJS Protocol](https://github.com/hjs-protocol/spec) implements the TP/3 lay
 - **Termination** — Ending responsibility chains
 - **Verification** — Validating time-based records
 
-## Related Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [`hjs-protocol/spec`](https://github.com/hjs-protocol/spec) | HJS Protocol Specification |
-| [`hjs-protocol/core`](https://github.com/hjs-protocol/core) | Rust implementation |
-| [`hjs-protocol/api`](https://github.com/hjs-protocol/api) | API service |
-| [`hjs-protocol/sdk-py`](https://github.com/hjs-protocol/sdk-py) | Python SDK |
-| [`hjs-protocol/sdk-js`](https://github.com/hjs-protocol/sdk-js) | JavaScript SDK |
-| [`hjs-protocol/sdk-go`](https://github.com/hjs-protocol/sdk-go) | Go SDK |
-| [`hjs-protocol/cli`](https://github.com/hjs-protocol/cli) | Command-line tool |
-
 ## Contact
 
 - **Email**: [signal@humanjudgment.org](mailto:signal@humanjudgment.org)
-- **GitHub**: [hjs-protocol](https://github.com/hjs-protocol)
 
 ## License
 
